@@ -1,6 +1,6 @@
 # Personal
 
-<div>
+<div align="center">
   <p>Crazy hai re ye, Only for My Boyz</p>
   <img src="Assets/ari-idle.gif"/>
   <img src="Assets/b9BSJzb0ptK.gif"/>
