@@ -11,3 +11,7 @@
   <img src="Assets/dgMN5hHSjgh.gif" width="180"/>
   <img src="Assets/iSFgimGt40J.gif" width="180"/>
 </div>
+
+<div align="center">
+  <img src="Assets/ari-idle.gif" width="180" alt="Ari desktop assistant character" />
+</div>
